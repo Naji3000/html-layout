@@ -1,0 +1,54 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.grey-line{
+    height: 15vh;
+    width: 100vw;
+    margin-top: 15px;
+    background-color: #e4eaee
+}
+.box-1 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 20px;
+    background-color: blue
+}
+.white-line{
+    height: 200px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white
+}
+.para {
+    text-align: center;
+    margin: 20 0px;
+    font-size: 25px
+}
+
+.line-1, .line-2, .line-3, .line-4 {
+    height: 120px;
+    width: 100%;
+    margin: 10 0px;
+    display: block;
+}
+
+.line-1{
+    background-color: blue
+}
+
+.line-2{
+    background-color: teal
+}
+
+.line-3{
+    background-color: green
+}
+
+.line-4{
+    background-color: yellow
+}
